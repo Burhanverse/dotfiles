@@ -1,0 +1,15 @@
+theme = Coollight
+
+adjust-font-baseline = 1
+freetype-load-flags = 1
+
+font-size = "10"
+font-family = "MesloLGS NF"
+
+shell-integration = fish
+
+window-padding-x = 2,4
+
+window-padding-balance = true
+
+background-opacity = 0.9
