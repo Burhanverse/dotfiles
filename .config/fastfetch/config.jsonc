@@ -57,7 +57,7 @@
         {
             "type": "title",
             "keyWidth": "10",
-            "format": "\u001b[1m\u001b[38;2;162;119;255msid\u001b[0m\u001b[1m\u001b[37m@\u001b[0m\u001b[1m\u001b[38;2;162;119;255mfedora\u001b[0m"
+            "format": "\u001b[1m\u001b[38;2;162;119;255m{1}\u001b[0m\u001b[1m\u001b[37m@\u001b[0m\u001b[1m\u001b[38;2;162;119;255m{2}\u001b[0m"
         },
         "break",
         {
