@@ -23,8 +23,8 @@ config.colors = {
 	cursor_fg = "#011423",
 	selection_bg = "#033259",
 	selection_fg = "#CBE0F0",
-	ansi = { "#214969", "#eb6f92", "#44FFB1", "#FFE073", "#0FC5ED", "#a277ff", "#24EAF7", "#24EAF7" },
-	brights = { "#4ca9b5", "#eb6f92", "#44FFB1", "#FFE073", "#A277FF", "#a277ff", "#24EAF7", "#24EAF7" },
+	ansi = { "#214969", "#eb6f92", "#44FFB1", "#FFE073", "#0FC5ED", "##b28fff", "#24EAF7", "#24EAF7" },
+	brights = { "#4ca9b5", "#eb6f92", "#44FFB1", "#FFE073", "##b28fff", "##b28fff", "#24EAF7", "#24EAF7" },
 }
 
 return config

@@ -31,7 +31,7 @@ yellow = '#f6c177'
 flamingo = '#ebbcba'
 green = '#44FFB1'
 blue = '#24EAF7'
-purple = '#A277FF'
+purple = '#b28fff'
 
 [directory]
 format = "[](fg:overlay)[ $path ]($style)[](fg:overlay) "
