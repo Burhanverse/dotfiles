@@ -1,15 +1,13 @@
 theme = Coollight
-
-adjust-font-baseline = 1
-freetype-load-flags = 1
-
+confirm-close-surface = false
+font-feature = +calt
+font-feature = +liga
+font-feature = +dlig
 font-size = "10"
 font-family = "MesloLGS NF"
-
 shell-integration = fish
-
-window-padding-x = 2,4
-
-window-padding-balance = true
-
-background-opacity = 0.9
+shell-integration-features = true
+window-height = 38
+window-width = 156
+window-padding-x = 6,0
+window-padding-balance = false

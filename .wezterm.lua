@@ -9,6 +9,12 @@ config.initial_rows = 38
 config.enable_tab_bar = false
 config.window_background_opacity = 0.99
 config.window_close_confirmation = 'NeverPrompt'
+config.window_padding = {
+	left = 6,
+	right = 0,
+	top = 0,
+	bottom = 0,
+}
 config.colors = {
 	foreground = "#dee2ff",
 	background = "#000000",
