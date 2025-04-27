@@ -111,7 +111,7 @@
             "type": "command",
             "key": "󰫢 PACKAGES:",
             "keyColor": "35",
-            "text": "cat ~/.config/fastfetch/upd_pkgs.sh"
+            "text": "cat ~/.config/fastfetch/packages_count.txt"
         },
         {
             "type": "cpu",
